@@ -2,7 +2,7 @@ package io.airlift.airline;
 
 import io.airlift.airline.model.CommandMetadata;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 public class HelpOption
 {

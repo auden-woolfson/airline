@@ -11,7 +11,7 @@ import io.airlift.airline.Option;
 import io.airlift.airline.OptionType;
 import io.airlift.airline.Suggester;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

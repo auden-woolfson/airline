@@ -4,7 +4,7 @@ import com.google.common.collect.ImmutableList;
 import io.airlift.airline.model.CommandMetadata;
 import io.airlift.airline.model.OptionMetadata;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import static com.google.common.collect.Iterables.concat;
 import static com.google.common.collect.Iterables.transform;
