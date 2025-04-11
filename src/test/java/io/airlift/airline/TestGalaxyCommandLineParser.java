@@ -4,7 +4,7 @@ import com.google.common.base.Joiner;
 import io.airlift.airline.Cli.CliBuilder;
 import org.testng.annotations.Test;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 
 import java.util.ArrayList;
 import java.util.List;
